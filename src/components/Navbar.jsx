@@ -10,7 +10,7 @@ function Navbar() {
             alt='Flowbite Logo'
           />
           <span className='self-center text-xl font-semibold whitespace-nowrap dark:text-white'>
-            Flowbite
+            Form Validation w/ Formik
           </span>
         </a>
         <button
